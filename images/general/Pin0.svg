@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="73px" viewBox="0 0 60 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 5 Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M29.2732876,72.5751988 C29.6746398,72.9392517 30.3369141,72.9308601 30.7415771,72.5615639 C30.7415771,72.5615639 60,46.5685425 60,30 C60,13.4314575 46.5685425,0 30,0 C13.4314575,0 0,13.4314575 0,30 C0,46.5685425 29.2732876,72.5751988 29.2732876,72.5751988 Z" id="path-1"></path>
+    </defs>
+    <g id="SmartSport-03_order" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_sportPicker-Copy" transform="translate(-35.000000, -594.000000)">
+            <g id="Path-5-Copy-5" transform="translate(35.000000, 594.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#00CC77" xlink:href="#path-1"></use>
+                <rect id="Rectangle-4" fill="#00AE65" mask="url(#mask-2)" x="30" y="0" width="44" height="80"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
